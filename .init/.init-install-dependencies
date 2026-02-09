@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/battleships-web-game-318141-318150/battleships_frontend"
+}
